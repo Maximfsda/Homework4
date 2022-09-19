@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         int monthNumber = 9;
         switch (monthNumber) {
             case 1:
